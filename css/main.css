@@ -2290,7 +2290,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 	font-size: 72px;
 	font-weight: 700;
 	line-height: 1em;
-	margin-top: 20px
+	margin-top: 0px
 }
 
 .banner-content h1 span {
@@ -3070,9 +3070,5 @@ h6 {
 }
 
 .switch-wrap p {
-	margin: 0
-}
-
-.header-content h1 {
 	margin: 0
 }
